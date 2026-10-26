@@ -1,7 +1,7 @@
 {
-  "getKeyUrl": "https://your-site.com/get-key",
+  "getKeyUrl": "https://discord.gg/6699",
   "apps": [
-    {"n":"Surve Studio","d":"2224.","f":"studio.exe","u":"https://cdn.discordapp.com/attachments/1498428200240414790/1564143633924366396/in_another_life.rar?ex=6ae031c6&is=6adee046&hm=f0d4a9abcda20321bad508b147ff27bb798b16d179c99630c1d594dd45bc604a&","v":"1.0","paid":true,"tag":"Premium"},
+    {"n":"fortnite macro ","d":"fortnite macro.","f":"fortnite macro","u":"https://cdn.discordapp.com/attachments/1514052528650850378/1564360663231635466/Macro_Sharawy.exe?ex=6ae0fbe6&is=6adfaa66&hm=3caefdfe48dba3f7bc6aa3ae8ac15a88526482e720bdbfd5fda2f18f2a940f26&","v":"1.0","paid":true,"tag":"Premium"},
     {"n":"Surve Tools","d":"Utilities and everyday helpers.","f":"tools.exe","u":"https://example.com/tools.exe","v":"1.0","paid":false,"tag":"Free"},
     {"n":"Surve Cloud","d":"Sync and back up your files.","f":"cloud.exe","u":"https://example.com/cloud.exe","v":"1.0","paid":true,"tag":"Premium"}
   ]
