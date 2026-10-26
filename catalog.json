@@ -2,10 +2,10 @@
   "getKeyUrl": "https://surveproject.netlify.app/",
   "apps": [
     {
-      "n": "fortnite macro",
-      "d": "fortnite macro.",
-      "f": "fortnite macro",
-      "u": "https://cdn.discordapp.com/attachments/1514052528650850378/1564360663231635466/Macro_Sharawy.exe?ex=6ae0fbe6&is=6adfaa66&hm=3caefdfe48dba3f7bc6aa3ae8ac15a88526482e720bdbfd5fda2f18f2a940f26&",
+      "n": "ui macro",
+      "d": "Advanced UI macro tool for enhanced gameplay.",
+      "f": "ui_MacroV2_1.exe",
+      "u": "https://cdn.discordapp.com/attachments/1514052528650850378/1564393576165806130/ui_MacroV2_1.exe?ex=6ae11a8d&is=6adfc90d&hm=1f511e5e6c9cf4c0f88dfd482987a00908ef80c84fd34209c606fb208c306df3&",
       "v": "1.0",
       "paid": true,
       "tag": "Premium"
