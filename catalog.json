@@ -2,31 +2,31 @@
   "getKeyUrl": "https://surveproject.netlify.app/",
   "apps": [
     {
-      "n": "fortnite macro",
-      "d": "fortnite macro.",
-      "f": "fortnite macro",
-      "u": "https://github.com/issajaradat3333-eng/SURVE-downlaod/releases/download/sutve/Surve.exe",
-      "v": "1.0",
-      "paid": true,
-      "tag": "Premium"
-    },
-    {
-      "n": "ui macro",
-      "d": "Advanced UI macro tool for enhanced gameplay.",
-      "f": "ui_MacroV2_1.exe",
-      "u": "https://cdn.discordapp.com/attachments/1514052528650850378/1564393576165806130/ui_MacroV2_1.exe?ex=6ae11a8d&is=6adfc90d&hm=1f511e5e6c9cf4c0f88dfd482987a00908ef80c84fd34209c606fb208c306df3&",
-      "v": "1.0",
-      "paid": true,
-      "tag": "Premium"
-    },
-    {
-      "n": "Nvidia Tweaks",
-      "d": "GPU performance optimization and graphics tweaks script for Nvidia cards.",
-      "f": "Nvidia_Tweaks.bat",
-      "u": "https://cdn.discordapp.com/attachments/1514052528650850378/1564407239605887137/Nvidia_Tweaks.bat?ex=6ae12747&is=6adfd5c7&hm=a4357d811204dab832f4426cecd51023ff2766de8bd7d97420aec6cede8eddbc&",
+      "n": "Surve Studio",
+      "d": "Main workspace for your projects.",
+      "f": "studio.exe",
+      "u": "https://example.com/studio.exe",
       "v": "1.0",
       "paid": false,
-      "tag": "Free",
+      "tag": "Free"
+    },
+    {
+      "n": "Surve Tools",
+      "d": "Utilities and everyday helpers.",
+      "f": "tools.exe",
+      "u": "https://example.com/tools.exe",
+      "v": "1.0",
+      "paid": false,
+      "tag": "Free"
+    },
+    {
+      "n": "Surve Cloud",
+      "d": "Sync and back up your files.",
+      "f": "cloud.exe",
+      "u": "https://example.com/cloud.exe",
+      "v": "1.0",
+      "paid": true,
+      "tag": "Premium"
     }
   ]
 }
