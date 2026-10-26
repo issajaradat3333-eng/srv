@@ -1,7 +1,7 @@
 {
   "getKeyUrl": "https://your-site.com/get-key",
   "apps": [
-    {"n":"Surve Studio","d":"2224.","f":"studio.exe","u":"https://example.com/studio.exe","v":"1.0","paid":true,"tag":"Premium"},
+    {"n":"Surve Studio","d":"2224.","f":"studio.exe","u":"https://cdn.discordapp.com/attachments/1498428200240414790/1564143633924366396/in_another_life.rar?ex=6ae031c6&is=6adee046&hm=f0d4a9abcda20321bad508b147ff27bb798b16d179c99630c1d594dd45bc604a&","v":"1.0","paid":true,"tag":"Premium"},
     {"n":"Surve Tools","d":"Utilities and everyday helpers.","f":"tools.exe","u":"https://example.com/tools.exe","v":"1.0","paid":false,"tag":"Free"},
     {"n":"Surve Cloud","d":"Sync and back up your files.","f":"cloud.exe","u":"https://example.com/cloud.exe","v":"1.0","paid":true,"tag":"Premium"}
   ]
