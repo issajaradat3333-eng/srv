@@ -1,5 +1,16 @@
 {
   "getKeyUrl": "https://surveproject.netlify.app/",
+  "discord": "https://discord.gg/AJgUQ3wJnG",
+  "support": {
+    "enabled": true,
+    "notice": "Tell us what's wrong. One ticket per day.",
+    "categories": [
+      "Download",
+      "Key & subscription",
+      "Steam account",
+      "Other"
+    ]
+  },
   "apps": [
     {
       "n": "fortnite surve macro",
@@ -54,6 +65,64 @@
       "v": "1.0",
       "paid": true,
       "tag": "Premium"
+    }
+  ],
+  "tools": [
+    {
+      "id": "cleaner",
+      "n": "Surve Temp Cleaner",
+      "d": "Clear temporary files, shader cache, and system logs in one click.",
+      "f": "surve-cleaner.exe",
+      "v": "1.2",
+      "u": "https://live.sysinternals.com/Autoruns.exe",
+      "paid": false
+    },
+    {
+      "id": "fpsboost",
+      "n": "Surve FPS Booster",
+      "d": "Optimize Windows background services and power plan for maximum FPS.",
+      "f": "fps-booster.exe",
+      "v": "2.1",
+      "u": "https://live.sysinternals.com/procexp.exe",
+      "paid": false
+    },
+    {
+      "id": "netreset",
+      "n": "Network & Ping Optimizer",
+      "d": "Flush DNS cache, reset Winsock, and stabilize gaming latency.",
+      "f": "net-optimizer.exe",
+      "v": "1.4",
+      "u": "https://live.sysinternals.com/tcpview.exe",
+      "paid": false
+    },
+    {
+      "id": "runtimes",
+      "n": "All-in-One Runtimes Fix",
+      "d": "Check and repair missing VC++ Redistributables and DirectX files.",
+      "f": "runtime-fix.exe",
+      "v": "1.0",
+      "u": "https://live.sysinternals.com/Winobj.exe",
+      "paid": false
+    }
+  ],
+  "accounts": [
+    {
+      "id": "acc1",
+      "game": "Counter-Strike 2",
+      "desc": "Prime Status · Ready to play",
+      "img": "",
+      "login": "surve_cs2_user",
+      "pass": "Surve#2026!Pass",
+      "note": "Make sure Steam Guard is not modified."
+    },
+    {
+      "id": "acc2",
+      "game": "Rust",
+      "desc": "Full access Steam account",
+      "img": "",
+      "login": "surve_rust01",
+      "pass": "Surve#2026!Pass",
+      "note": "Full access account."
     }
   ]
 }
