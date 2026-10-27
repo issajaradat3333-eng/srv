@@ -108,21 +108,39 @@
   "accounts": [
     {
       "id": "acc1",
-      "game": "Counter-Strike 2",
-      "desc": "Prime Status · Ready to play",
-      "img": "",
-      "login": "surve_cs2_user",
-      "pass": "Surve#2026!Pass",
-      "note": "Make sure Steam Guard is not modified."
+      "game": "Cyberpunk 2077 & Train Simulator Classic",
+      "desc": "Includes Cyberpunk 2077 + Train Simulator Classic · Play Offline",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/header.jpg",
+      "login": "ou72852",
+      "pass": "Hh2468iut",
+      "note": "Please switch Steam to Offline Mode before launching the game."
     },
     {
       "id": "acc2",
-      "game": "Rust",
-      "desc": "Full access Steam account",
-      "img": "",
-      "login": "surve_rust01",
-      "pass": "Surve#2026!Pass",
-      "note": "Full access account."
+      "game": "Red Dead Redemption 2",
+      "desc": "Full Game Access · Story Mode Ready",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
+      "login": "doubletarsier8998",
+      "pass": "854769ZD2ZCY",
+      "note": "Please switch Steam to Offline Mode before launching the game."
+    },
+    {
+      "id": "acc3",
+      "game": "Crimson Desert",
+      "desc": "Full Game Access · Ready to Play",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/header.jpg",
+      "login": "pswsc06645",
+      "pass": "siski33N0RNBcnDBeuCb",
+      "note": "Please switch Steam to Offline Mode before launching the game."
+    },
+    {
+      "id": "acc4",
+      "game": "UNCHARTED™: Legacy of Thieves Collection",
+      "desc": "Includes A Thief's End & The Lost Legacy · Play Offline",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/header.jpg",
+      "login": "ao0na8xp5yp2",
+      "pass": "Mn6Ld9Ex1Fr8",
+      "note": "Please switch Steam to Offline Mode before launching the game."
     }
   ]
 }
