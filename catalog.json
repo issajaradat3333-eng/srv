@@ -189,19 +189,12 @@
   "courses": [
     {
       "id": "course-1",
-      "title": "Advanced Game Development & Scripting",
+      "title": "Introduction to Programming & Logic",
       "version": "v1.0",
-      "description": "Master the fundamentals of building custom launchers and optimizing game mechanics.",
+      "description": "Learn the foundational concepts of software logic and clean coding principles.",
       "status": "Ready to Watch",
-      "duration": "4h 30m"
-    },
-    {
-      "id": "course-2",
-      "title": "UI/UX Masterclass for Modern Apps",
-      "version": "v1.1",
-      "description": "Learn how to design obsidian dark-themed, ultra-clean interfaces like a pro.",
-      "status": "Available",
-      "duration": "2h 45m"
+      "duration": "10m",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     }
   ],
   "accounts": [
@@ -509,7 +502,7 @@
       "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222680/header.jpg",
       "login": "nitromuka1980",
       "pass": "yHam0LIG711984",
-      "note": "Please switch Steam to Offline Mode before launching the game."
+      "note": "Please sound/switch Steam to Offline Mode before launching the game."
     },
     {
       "id": "acc35",
