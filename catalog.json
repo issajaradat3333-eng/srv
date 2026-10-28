@@ -105,30 +105,12 @@
       "paid": false
     },
     {
-      "id": "tempvoice",
-      "n": "Temp Voice",
-      "d": "Source code package for creating temporary voice channels.",
-      "f": "tempvoice.zip",
-      "v": "1.0",
-      "u": "https://cdn.discordapp.com/attachments/1394956153758158898/1564859527101153320/tempvoice.zip?ex=6ae2cc80&is=6ae17b00&hm=c4fe281173a4796cb4336e0d2e22b3bd3f09b7047ea90cdde154bbdec94c028c&",
-      "paid": false
-    },
-    {
-      "id": "systembot",
-      "n": "System Bot (YT)",
-      "d": "Automated YouTube system bot and management source code package.",
-      "f": "YT_system.zip",
-      "v": "1.0",
-      "u": "https://cdn.discordapp.com/attachments/1394956153758158898/1564861719699001344/YT_system.zip?ex=6ae2ce8b&is=6ae17d0b&hm=f345208256fb56ccaebf28992ab55c6fbfb036e66e92fa4e1df047ddb481407e&",
-      "paid": false
-    },
-    {
       "id": "guardbot",
       "n": "Guard Bot",
       "d": "Discord server security and moderation guard bot source code package.",
       "f": "GuardBot.zip",
       "v": "1.0",
-      "u": "https://cdn.discordapp.com/attachments/1394956153758158898/1564861864771321906/GuardBot.zip?ex=6ae2ceae&is=6ae17d2e&hm=9eaa895ea714335bd3a24d19d82fb52e31c9719cd1b46ae5d39cb4334d4ef96e&",
+      "u": "https://files.catbox.moe/7x2m68.zip",
       "paid": false
     },
     {
@@ -137,7 +119,7 @@
       "d": "Discord automated store and commerce management bot source code package.",
       "f": "store_bot.zip",
       "v": "1.0",
-      "u": "https://cdn.discordapp.com/attachments/1394956153758158898/1564861947478933504/store_bot.zip?ex=6ae2cec2&is=6ae17d42&hm=8152d216080044d1c993c0a8c07a9bddf5c5240ca496cfbbe7ef50f000193d77&",
+      "u": "https://files.catbox.moe/nkgjc6.zip",
       "paid": false
     },
     {
@@ -146,7 +128,16 @@
       "d": "Discord support ticket management system source code package.",
       "f": "ticket_system.zip",
       "v": "1.0",
-      "u": "https://cdn.discordapp.com/attachments/1394956153758158898/1564862061916332032/ticket_system.zip?ex=6ae2cedd&is=6ae17d5d&hm=49d7ca4ccf2290234ac77a4a0b257a847ffabbc863f7a761c4e9a7c040434dd2&",
+      "u": "https://files.catbox.moe/8w729p.zip",
+      "paid": false
+    },
+    {
+      "id": "tempvoice",
+      "n": "Temp Voice",
+      "d": "Source code package for creating temporary voice channels.",
+      "f": "tempvoice.zip",
+      "v": "1.0",
+      "u": "https://files.catbox.moe/idtg1h.zip",
       "paid": false
     },
     {
@@ -155,7 +146,16 @@
       "d": "Automated YouTube broadcast notification bot source code package.",
       "f": "yt_broad.zip",
       "v": "1.0",
-      "u": "https://cdn.discordapp.com/attachments/1394956153758158898/1564862238953709608/yt_broad.zip?ex=6ae2cf07&is=6ae17d87&hm=a6a9cf018e727792590ceccdbf248382fdc2787193c9fe767806dea1e11a37b6&",
+      "u": "https://files.catbox.moe/kxgmdt.zip",
+      "paid": false
+    },
+    {
+      "id": "systembot",
+      "n": "System Bot (YT)",
+      "d": "Automated YouTube system bot and management source code package.",
+      "f": "YT_system.zip",
+      "v": "1.0",
+      "u": "https://files.catbox.moe/l7roku.zip",
       "paid": false
     }
   ],
