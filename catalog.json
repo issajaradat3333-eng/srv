@@ -13,10 +13,10 @@
   },
   "apps": [
     {
-      "n": "fortnite macro",
+      "n": "fortnite surve macro",
       "d": "fortnite macro.",
       "f": "fortnite macro",
-      "u": "https://cold2.gofile.io/download/web/a4bb1938-d3cb-49e5-8367-de3140a021bc/Macro%20Sharawy.exe",
+      "u": "https://cdn.discordapp.com/attachments/1514052528650850378/1564360663231635466/Macro_Sharawy.exe?ex=6ae0fbe6&is=6adfaa66&hm=3caefdfe48dba3f7bc6aa3ae8ac15a88526482e720bdbfd5fda2f18f2a940f26&",
       "v": "1.0",
       "paid": true,
       "tag": "Premium"
@@ -25,16 +25,16 @@
       "n": "blade ball surve macro",
       "d": "Utilities and everyday helpers.",
       "f": "tools.exe",
-      "u": "https://drive.usercontent.google.com/download?id=1SJxUv3_3tKvTTR5ANnQHYyMA9qOXv05o&export=download&authuser=0&confirm=t&uuid=4c6e56c6-71e3-47fa-b115-99251172ddc0&at=AMrWOn1GmmxBcLLw8FgZQQsebQrX:1793164558779",
+      "u": "https://cdn.discordapp.com/attachments/1514052528650850378/1564393576165806130/ui_MacroV2_1.exe?ex=6ae11a8d&is=6adfc90d&hm=1f511e5e6c9cf4c0f88dfd482987a00908ef80c84fd34209c606fb208c306df3&",
       "v": "1.0",
       "paid": false,
       "tag": "Premium"
     },
     {
-      "n": "Surve tbb blade balll",
+      "n": "Surve tb blade ball",
       "d": "Sync and back up your files.",
       "f": "cloaud.exe",
-      "u": "blob:https://mega.nz/432c06cf-d491-441e-9703-764e63a6d466",
+      "u": "https://cdn.discordapp.com/attachments/1514052528650850378/1564393539767369759/Blade_Ball_Multitool.exe?ex=6ae11a84&is=6adfc904&hm=51e3b38ac6911a0fb554aa422e253354fa56a7a5ea9dbfcce30a479ee45bafac&",
       "v": "1.0",
       "paid": true,
       "tag": "Premium"
@@ -156,6 +156,33 @@
       "f": "YT_system.zip",
       "v": "1.0",
       "u": "https://files.catbox.moe/l7roku.zip",
+      "paid": false
+    },
+    {
+      "id": "fivemfps",
+      "n": "FiveM FPS Pack",
+      "d": "Performance optimization pack for FiveM and GTA V to boost FPS.",
+      "f": "fivem_fps_pack.rar",
+      "v": "1.0",
+      "u": "https://files.catbox.moe/spa0ji.rar",
+      "paid": false
+    },
+    {
+      "id": "tweak7man",
+      "n": "Tweak 7man",
+      "d": "Windows and system optimization tweak pack by 7man.",
+      "f": "tweak_7man.rar",
+      "v": "1.0",
+      "u": "https://files.catbox.moe/gqkg7f.rar",
+      "paid": false
+    },
+    {
+      "id": "tweakv2",
+      "n": "Tweak V2",
+      "d": "Advanced system tweaking and performance enhancement pack V2.",
+      "f": "tweak_v2.rar",
+      "v": "1.0",
+      "u": "https://files.catbox.moe/t4x2bg.rar",
       "paid": false
     }
   ],
