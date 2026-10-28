@@ -186,6 +186,24 @@
       "paid": false
     }
   ],
+  "courses": [
+    {
+      "id": "course-1",
+      "title": "Advanced Game Development & Scripting",
+      "version": "v1.0",
+      "description": "Master the fundamentals of building custom launchers and optimizing game mechanics.",
+      "status": "Ready to Watch",
+      "duration": "4h 30m"
+    },
+    {
+      "id": "course-2",
+      "title": "UI/UX Masterclass for Modern Apps",
+      "version": "v1.1",
+      "description": "Learn how to design obsidian dark-themed, ultra-clean interfaces like a pro.",
+      "status": "Available",
+      "duration": "2h 45m"
+    }
+  ],
   "accounts": [
     {
       "id": "acc1",
