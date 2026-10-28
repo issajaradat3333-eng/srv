@@ -13,7 +13,7 @@
   },
   "apps": [
     {
-      "n": "fortnite surve macro",
+      "n": "fortnite surve macros",
       "d": "fortnite macro.",
       "f": "fortnite macro",
       "u": "https://github.com/issajaradat3333-eng/SURVE/releases/download/apps/Macro.Sharawy.exe",
@@ -190,11 +190,14 @@
     {
       "id": "course-1",
       "title": "Introduction to Programming & Logic",
-      "version": "v1.0",
-      "description": "Learn the foundational concepts of software logic and clean coding principles.",
-      "status": "Ready to Watch",
-      "duration": "10m",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      "desc": "Learn the foundational concepts of software logic and clean coding principles.",
+      "lessons": [
+        {
+          "title": "Lesson 1: Getting Started",
+          "duration": "10m",
+          "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+        }
+      ]
     }
   ],
   "accounts": [
@@ -502,7 +505,7 @@
       "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222680/header.jpg",
       "login": "nitromuka1980",
       "pass": "yHam0LIG711984",
-      "note": "Please sound/switch Steam to Offline Mode before launching the game."
+      "note": "Please switch Steam to Offline Mode before launching the game."
     },
     {
       "id": "acc35",
