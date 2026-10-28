@@ -106,7 +106,7 @@
     },
     {
       "id": "tempvoice",
-      "n": "Temp Voice Source Code",
+      "n": "Temp Voice",
       "d": "Source code package for creating temporary voice channels.",
       "f": "tempvoice.zip",
       "v": "1.0",
