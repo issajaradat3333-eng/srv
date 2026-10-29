@@ -525,5 +525,71 @@
       "pass": "Enzodu66",
       "note": "Please switch Steam to Offline Mode before launching the game."
     }
+  ],
+  "iso": [
+    {
+      "id": "rufus",
+      "type": "tool",
+      "n": "Rufus",
+      "tag": "USB",
+      "v": "4.x",
+      "d": "أداة إنشاء فلاشة بوت لتثبيت ويندوز بسرعة وبدون تعقيد.",
+      "d_en": "Create a bootable USB drive to install Windows quickly.",
+      "u": "https://rufus.ie/"
+    },
+    {
+      "id": "ventoy",
+      "type": "tool",
+      "n": "Ventoy",
+      "tag": "USB",
+      "d": "ضع عدة ملفات ISO على فلاشة واحدة وشغّل أي منها مباشرة.",
+      "d_en": "Put multiple ISO files on one USB drive and boot any of them.",
+      "u": "https://www.ventoy.net/"
+    },
+    {
+      "id": "win11iso",
+      "type": "tool",
+      "n": "Windows 11 ISO (Microsoft)",
+      "tag": "Official",
+      "d": "صفحة مايكروسوفت الرسمية لتحميل ملف ويندوز 11 الأصلي.",
+      "d_en": "Microsoft's official page to download the original Windows 11 ISO.",
+      "u": "https://www.microsoft.com/software-download/windows11"
+    },
+    {
+      "id": "microwin",
+      "type": "tool",
+      "n": "MicroWin (WinUtil)",
+      "tag": "Builder",
+      "d": "أداة Chris Titus لبناء ISO مخفف من ويندوز الأصلي بنفسك.",
+      "d_en": "Chris Titus tool to build your own slimmed-down Windows ISO.",
+      "u": "https://christitus.com/windows-tool/"
+    },
+    {
+      "id": "tiny11",
+      "type": "os",
+      "n": "Tiny11",
+      "tag": "Windows 11",
+      "d": "ويندوز 11 مخفف بدون برامج زائدة وبمساحة وذاكرة أقل.",
+      "d_en": "Stripped-down Windows 11 with fewer apps and lower RAM use.",
+      "u": "https://github.com/ntdevlabs/tiny11builder"
+    },
+    {
+      "id": "atlas",
+      "type": "os",
+      "n": "AtlasOS",
+      "tag": "Windows 10/11",
+      "d": "نسخة معدلة مخصصة للألعاب وأعلى أداء.",
+      "d_en": "Playbook focused on gaming performance and low latency.",
+      "u": "https://atlasos.net/"
+    },
+    {
+      "id": "revios",
+      "type": "os",
+      "n": "ReviOS",
+      "tag": "Windows 10/11",
+      "d": "نسخة مخففة وسريعة مع تحسينات للألعاب والاستجابة.",
+      "d_en": "Lightweight, fast edition tuned for gaming and responsiveness.",
+      "u": "https://revi.cc/"
+    }
   ]
 }
