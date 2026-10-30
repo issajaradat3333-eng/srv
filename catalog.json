@@ -190,12 +190,40 @@
     {
       "id": "course-1",
       "title": "Introduction to Programming & Logic",
+      "n": "Introduction to Programming & Logic",
+      "n_en": "Introduction to Programming & Logic",
       "desc": "Learn the foundational concepts of software logic and clean coding principles.",
+      "d": "Learn the foundational concepts of software logic and clean coding principles.",
+      "d_en": "Learn the foundational concepts of software logic and clean coding principles.",
       "lessons": [
         {
           "title": "Lesson 1: Getting Started",
+          "n": "Lesson 1: Getting Started",
           "duration": "10m",
-          "videoUrl": "https://cdn.discordapp.com/attachments/1423400278366883944/1563220174591496314/Clip_-_10222026_35101_PM.mp4?ex=6ae415fc&is=6ae2c47c&hm=dd6a760e2e3ee6f9a75492310c8790cf1e7b0d6a34c2ae020d33b23b9c07dd56&"
+          "t": "10m",
+          "videoUrl": "https://cdn.discordapp.com/attachments/1423400278366883944/1563220174591496314/Clip_-_10222026_35101_PM.mp4?ex=6ae415fc&is=6ae2c47c&hm=dd6a760e2e3ee6f9a75492310c8790cf1e7b0d6a34c2ae020d33b23b9c07dd56&",
+          "u": "https://cdn.discordapp.com/attachments/1423400278366883944/1563220174591496314/Clip_-_10222026_35101_PM.mp4?ex=6ae415fc&is=6ae2c47c&hm=dd6a760e2e3ee6f9a75492310c8790cf1e7b0d6a34c2ae020d33b23b9c07dd56&"
+        }
+      ]
+    },
+    {
+      "id": "course-2",
+      "title": "شرح استخراج واستيراد الكوكيز (Cookies Tutorial)",
+      "n": "شرح استخراج واستيراد الكوكيز (Cookies)",
+      "n_en": "Cookies Import & Export Guide",
+      "desc": "الروابط المطلوبة في الشرح: | Firefox Cookie Importer: https://addons.mozilla.org/en-US/firefox/addon/cookie-importer-by-neeno/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search | Chrome Get cookies.txt: https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc | Firefox Browser: https://www.firefox.com/en-US/",
+      "d": "الروابط المطلوبة في الشرح: | Firefox Cookie Importer: https://addons.mozilla.org/en-US/firefox/addon/cookie-importer-by-neeno/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search | Chrome Get cookies.txt: https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc | Firefox Browser: https://www.firefox.com/en-US/",
+      "d_en": "Required Links: | Firefox Cookie Importer: https://addons.mozilla.org/en-US/firefox/addon/cookie-importer-by-neeno/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search | Chrome Get cookies.txt: https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc | Firefox Browser: https://www.firefox.com/en-US/",
+      "img": "https://cdn.discordapp.com/avatars/886977189034201149/ee31fb8ce6bd0a1699cfdd1beaf5e927.webp?size=4096",
+      "count": 1,
+      "lessons": [
+        {
+          "title": "الدرس 1: شرح الطريقة خطوة بخطوة",
+          "n": "الدرس 1: شرح الطريقة خطوة بخطوة",
+          "duration": "شرح كامل",
+          "t": "شرح كامل",
+          "videoUrl": "https://cdn.discordapp.com/attachments/1415687217988374638/1415687314952163399/ezyZip.mp4?ex=6ae5414e&is=6ae3efce&hm=72a3595b15558f8dbca7dddc64787b902edd48958b2db23cca7b126923873cb5&",
+          "u": "https://cdn.discordapp.com/attachments/1415687217988374638/1415687314952163399/ezyZip.mp4?ex=6ae5414e&is=6ae3efce&hm=72a3595b15558f8dbca7dddc64787b902edd48958b2db23cca7b126923873cb5&"
         }
       ]
     }
