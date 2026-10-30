@@ -226,6 +226,27 @@
           "u": "https://cdn.discordapp.com/attachments/1415687217988374638/1415687314952163399/ezyZip.mp4?ex=6ae5414e&is=6ae3efce&hm=72a3595b15558f8dbca7dddc64787b902edd48958b2db23cca7b126923873cb5&"
         }
       ]
+    },
+    {
+      "id": "course-3",
+      "title": "جيم باس مدى الحياة",
+      "n": "جيم باس مدى الحياة",
+      "n_en": "Lifetime Game Pass Guide",
+      "desc": "شرح كامل لطريقة تفعيل والحصول على اشتراك جيم باس مدى الحياة خطوة بخطوة.",
+      "d": "شرح كامل لطريقة تفعيل والحصول على اشتراك جيم باس مدى الحياة خطوة بخطوة.",
+      "d_en": "Complete step-by-step guide to getting and activating Lifetime Xbox Game Pass.",
+      "img": "https://cdn.discordapp.com/attachments/1514052528650850378/1565598111924101140/image.png?ex=6ae57c5d&is=6ae42add&hm=e16f338fd5957c4ed6547dcba14893e15b2ec7164fd709aa9eafed1ccb3a3d79&",
+      "count": 1,
+      "lessons": [
+        {
+          "title": "الدرس 1: شرح جيم باس مدى الحياة",
+          "n": "الدرس 1: شرح جيم باس مدى الحياة",
+          "duration": "شرح كامل",
+          "t": "شرح كامل",
+          "videoUrl": "https://cdn.discordapp.com/attachments/1415687217988374638/1421189626823049437/Desktop_2025.09.26_-_20.11.11.04.mp4?ex=6ae57f3b&is=6ae42dbb&hm=54b7604b7dd951676b621b7d7cb6729dea2c2e8e64eeaa13281dc4d5992e4088&",
+          "u": "https://cdn.discordapp.com/attachments/1415687217988374638/1421189626823049437/Desktop_2025.09.26_-_20.11.11.04.mp4?ex=6ae57f3b&is=6ae42dbb&hm=54b7604b7dd951676b621b7d7cb6729dea2c2e8e64eeaa13281dc4d5992e4088&"
+        }
+      ]
     }
   ],
   "accounts": [
