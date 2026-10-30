@@ -188,25 +188,6 @@
   ],
   "courses": [
     {
-      "id": "course-1",
-      "title": "Introduction to Programming & Logic",
-      "n": "Introduction to Programming & Logic",
-      "n_en": "Introduction to Programming & Logic",
-      "desc": "Learn the foundational concepts of software logic and clean coding principles.",
-      "d": "Learn the foundational concepts of software logic and clean coding principles.",
-      "d_en": "Learn the foundational concepts of software logic and clean coding principles.",
-      "lessons": [
-        {
-          "title": "Lesson 1: Getting Started",
-          "n": "Lesson 1: Getting Started",
-          "duration": "10m",
-          "t": "10m",
-          "videoUrl": "https://cdn.discordapp.com/attachments/1423400278366883944/1563220174591496314/Clip_-_10222026_35101_PM.mp4?ex=6ae415fc&is=6ae2c47c&hm=dd6a760e2e3ee6f9a75492310c8790cf1e7b0d6a34c2ae020d33b23b9c07dd56&",
-          "u": "https://cdn.discordapp.com/attachments/1423400278366883944/1563220174591496314/Clip_-_10222026_35101_PM.mp4?ex=6ae415fc&is=6ae2c47c&hm=dd6a760e2e3ee6f9a75492310c8790cf1e7b0d6a34c2ae020d33b23b9c07dd56&"
-        }
-      ]
-    },
-    {
       "id": "course-2",
       "title": "شرح استخراج واستيراد الكوكيز (Cookies Tutorial)",
       "n": "شرح استخراج واستيراد الكوكيز (Cookies)",
